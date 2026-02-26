@@ -57,7 +57,7 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-      },
+      }, 
       backgroundImage: {
         'cosmic': 'var(--gradient-cosmic)',
         'nebula': 'var(--gradient-nebula)',
